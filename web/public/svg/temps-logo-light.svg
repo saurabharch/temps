@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 80" width="185" height="80">
-  <g transform="translate(12, 12) scale(1.75)">
-    <rect width="32" height="32" rx="6" fill="#09090b"/>
-    <text x="16" y="26"
-      font-family="Inter, Segoe UI, Arial, sans-serif"
-      font-weight="900"
-      font-size="28"
-      fill="#fafafa"
-      text-anchor="middle">t</text>
-  </g>
-  <text x="80" y="51"
-    font-family="Inter, Segoe UI, Arial, sans-serif"
-    font-weight="900"
-    font-size="30"
-    fill="#09090b">temps</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="185" height="80" viewBox="0 0 185 80"><g transform="translate(12, 12) scale(1.75)"><rect width="32" height="32" fill="#09090b" rx="6"/><text x="16" y="26" fill="#fafafa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="900" text-anchor="middle">t</text></g><text x="80" y="51" fill="#09090b" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900">temps</text></svg>
